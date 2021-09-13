@@ -12,7 +12,6 @@ public class SaleSuccessDTO implements Serializable{
 	private Long deals;
 	
 	public SaleSuccessDTO() {
-		
 	}
 
 	public SaleSuccessDTO(Seller seller, Long visited, Long deals) {
