@@ -1,3 +1,38 @@
+#  Dashboard Produtividade
+
+## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 4.0
+
+>  *Criação de uma aplicação com uso das tecnologias em alta demanda no mercado*
+
+## Realização
+[DevSuperior - Escola de programação](https://devsuperior.com.br)
+
+[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
+[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
+
+## Tecnologias:
+- <img alt="React" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+- <img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+- <img alt="Spring Boot" align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+- <img alt="Spring Boot" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+## Ferramentas Utilizadas:
+
+- JDK 11
+- STS
+- Postman
+- Postgresql 12 e pgAdmin
+- Heroku CLI
+- NPM
+- VS Code
+- Git
+
+## Biblioteca para Estilização:
+
+<img alt="Bootstrap" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
