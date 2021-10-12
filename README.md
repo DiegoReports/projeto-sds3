@@ -71,6 +71,6 @@ Consulte a seção sobre [implantação] (https://facebook.github.io/create-reac
 **Nota: esta é uma operação unilateral. Depois de `ejetar`, você não pode mais voltar!**
 
 # Hospedado em:
-<a href="https://dashprodinove.netlify.app/dashboard">
+<a href="https://dashprodinove.netlify.app">
 <img alt="Netlify" align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width=150>
 </a>
